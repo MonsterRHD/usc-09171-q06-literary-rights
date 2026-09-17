@@ -1,0 +1,4 @@
+[
+  {"source_id":"rights-translation-1","asset_ref":"translation:chapter-3:paragraph-2","holder_ref":"holder-translator-a","valid_from":"2025-01-01","valid_to":"2030-01-01","scope":{"media":["exhibition"],"territories":["CN"],"sublicense":false}},
+  {"source_id":"rights-image-4","asset_ref":"illustration:character-a:pose-7","holder_ref":"holder-artist-b","valid_from":"2026-01-01","valid_to":"2027-01-01","scope":{"media":["physical-merchandise"],"territories":["CN"],"sublicense":false}}
+]
