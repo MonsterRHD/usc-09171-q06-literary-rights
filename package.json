@@ -1,10 +1,11 @@
 {
   "name": "literary-rights",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
     "start": "node src/server.mjs",
+    "seed": "node scripts/seed.mjs --reset data/events.jsonl",
     "test": "node --test"
   }
 }
